@@ -5,7 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/BP_AmmoBox.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/textures/GunMat.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/source/Props_Gun_M.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/textures/T_PropsGun_BaseColor.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_AK47_Body.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_AK47_Bullet.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Ak47_Magazine.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Body.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Bullet.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Magazine.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Body.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Bullet.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Magazine.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Body.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Bullet.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Magazine.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Body.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Bullet.uasset",
+				"H:/Documents/GitHub/KTSUnreal/KTSProject/Content/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Magazine.uasset"
 			]
 		}
 	]
