@@ -3615,3 +3615,100 @@ et" to "H:/Documents/GitHub/KTSUnreal/KTSProject/Content/StarterContent/Textures
 [2025.03.13-11.31.35:326][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
 [2025.03.13-11.31.35:337][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
 [2025.03.13-11.31.35:351][256]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 2.43 sec)
+[2025.03.13-11.32.02:635][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.13-11.32.02:635][548]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.009
+[2025.03.13-11.32.02:642][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/textures/T_PropsGun_BaseColor] ([1] browsable assets)...
+[2025.03.13-11.32.02:647][548]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Guns/weapons-pack-gun/textures/T_PropsGun_BaseColor.T_PropsGun_BaseColor]
+[2025.03.13-11.32.02:647][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/textures/T_PropsGun_BaseColor]
+[2025.03.13-11.32.03:296][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/textures/T_PropsGun_BaseColor_Auto5
+[2025.03.13-11.32.03:296][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/T_PropsGun_BaseColor_Auto5EAA144FC4FC4605858D845BB9741B8FC.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/textures/T_PropsGun_BaseColor_Auto5.uasset'
+[2025.03.13-11.32.03:307][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Body] ([1] browsable assets)...
+[2025.03.13-11.32.03:399][548]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Body.Weapons_Pack_-_Gun_HK_MP5_Body]
+[2025.03.13-11.32.03:399][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Body]
+[2025.03.13-11.32.03:533][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Body_Auto5
+[2025.03.13-11.32.03:533][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Weapons_Pack_-_Gun_HK_MP5_Body_A4359B7824CDB5AD21AF9CBA70B26293F.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Body_Auto5.uasset'
+[2025.03.13-11.32.03:545][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/source/Props_Gun_M] ([1] browsable assets)...
+[2025.03.13-11.32.04:262][548]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Guns/weapons-pack-gun/source/Props_Gun_M.Props_Gun_M]
+[2025.03.13-11.32.04:262][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/source/Props_Gun_M]
+[2025.03.13-11.32.04:284][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/source/Props_Gun_M_Auto5
+[2025.03.13-11.32.04:284][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Props_Gun_M_Auto5664417E14B0044BB719C4D9429D61A88.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/source/Props_Gun_M_Auto5.uasset'
+[2025.03.13-11.32.04:289][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Magazine] ([1] browsable assets)...
+[2025.03.13-11.32.04:318][548]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Magazine.Weapons_Pack_-_Gun_HK_MP5_Magazine]
+[2025.03.13-11.32.04:318][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Magazine]
+[2025.03.13-11.32.04:426][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Magazine_Auto5
+[2025.03.13-11.32.04:426][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Weapons_Pack_-_Gun_HK_MP5_Magazi39C743E44DF3F53459E9DFAD082635B9.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Magazine_Auto5.uasset'
+[2025.03.13-11.32.04:433][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Bullet] ([1] browsable assets)...
+[2025.03.13-11.32.04:462][548]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Bullet.Weapons_Pack_-_Gun_HK_MP5_Bullet]
+[2025.03.13-11.32.04:463][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Bullet]
+[2025.03.13-11.32.04:567][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Bullet_Auto5
+[2025.03.13-11.32.04:567][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Weapons_Pack_-_Gun_HK_MP5_BulletE7F3016E45DB21CD57E4B3A1AA56F0D2.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_HK_MP5_Bullet_Auto5.uasset'
+[2025.03.13-11.32.04:575][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Body] ([1] browsable assets)...
+[2025.03.13-11.32.04:600][548]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Body.Weapons_Pack_-_Gun_Barrett_M82A1_Body]
+[2025.03.13-11.32.04:600][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Body]
+[2025.03.13-11.32.04:707][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Body_Auto5
+[2025.03.13-11.32.04:707][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Weapons_Pack_-_Gun_Barrett_M82A1ADA9EE4546D3941B3BCD60A8CA431849.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Body_Auto5.uasset'
+[2025.03.13-11.32.04:714][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Magazine] ([1] browsable assets)...
+[2025.03.13-11.32.04:738][548]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Magazine.Weapons_Pack_-_Gun_Barrett_M82A1_Magazine]
+[2025.03.13-11.32.04:738][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Magazine]
+[2025.03.13-11.32.04:842][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Magazine_Auto5
+[2025.03.13-11.32.04:842][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Weapons_Pack_-_Gun_Barrett_M82A197C810B54AA020C474A923BED5809627.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Magazine_Auto5.uasset'
+[2025.03.13-11.32.04:850][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Bullet] ([1] browsable assets)...
+[2025.03.13-11.32.04:879][548]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Bullet.Weapons_Pack_-_Gun_Barrett_M82A1_Bullet]
+[2025.03.13-11.32.04:879][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Bullet]
+[2025.03.13-11.32.04:986][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Bullet_Auto5
+[2025.03.13-11.32.04:986][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Weapons_Pack_-_Gun_Barrett_M82A1D16190CA436E8EF69A5CA9B31A8C52F1.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Barrett_M82A1_Bullet_Auto5.uasset'
+[2025.03.13-11.32.04:994][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Body] ([1] browsable assets)...
+[2025.03.13-11.32.05:024][548]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Body.Weapons_Pack_-_Gun_M16A1_Body]
+[2025.03.13-11.32.05:024][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Body]
+[2025.03.13-11.32.05:143][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Body_Auto5
+[2025.03.13-11.32.05:143][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Weapons_Pack_-_Gun_M16A1_Body_AuD6315CE54AC769ACAB9FBA88BCD66814.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Body_Auto5.uasset'
+[2025.03.13-11.32.05:151][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Magazine] ([1] browsable assets)...
+[2025.03.13-11.32.05:180][548]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Magazine.Weapons_Pack_-_Gun_M16A1_Magazine]
+[2025.03.13-11.32.05:180][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Magazine]
+[2025.03.13-11.32.05:286][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Magazine_Auto5
+[2025.03.13-11.32.05:286][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Weapons_Pack_-_Gun_M16A1_Magazin1A272B7A4931B288445943BB730F69A3.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Magazine_Auto5.uasset'
+[2025.03.13-11.32.05:294][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Bullet] ([1] browsable assets)...
+[2025.03.13-11.32.05:324][548]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Bullet.Weapons_Pack_-_Gun_M16A1_Bullet]
+[2025.03.13-11.32.05:324][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Bullet]
+[2025.03.13-11.32.05:426][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Bullet_Auto5
+[2025.03.13-11.32.05:426][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Weapons_Pack_-_Gun_M16A1_Bullet_F0011313498947E6D7768B84719A5304.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_M16A1_Bullet_Auto5.uasset'
+[2025.03.13-11.32.05:434][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_AK47_Body] ([1] browsable assets)...
+[2025.03.13-11.32.05:464][548]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_AK47_Body.Weapons_Pack_-_Gun_AK47_Body]
+[2025.03.13-11.32.05:464][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_AK47_Body]
+[2025.03.13-11.32.05:573][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_AK47_Body_Auto5
+[2025.03.13-11.32.05:573][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Weapons_Pack_-_Gun_AK47_Body_AutDB0263FB492A9C4746A1769492A45734.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_AK47_Body_Auto5.uasset'
+[2025.03.13-11.32.05:580][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Ak47_Magazine] ([1] browsable assets)...
+[2025.03.13-11.32.05:607][548]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Ak47_Magazine.Weapons_Pack_-_Gun_Ak47_Magazine]
+[2025.03.13-11.32.05:607][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Ak47_Magazine]
+[2025.03.13-11.32.05:709][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Ak47_Magazine_Auto5
+[2025.03.13-11.32.05:709][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Weapons_Pack_-_Gun_Ak47_Magazine99810E1640240FA554D35184CEAE1CBF.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Ak47_Magazine_Auto5.uasset'
+[2025.03.13-11.32.05:718][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_AK47_Bullet] ([1] browsable assets)...
+[2025.03.13-11.32.05:747][548]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_AK47_Bullet.Weapons_Pack_-_Gun_AK47_Bullet]
+[2025.03.13-11.32.05:747][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_AK47_Bullet]
+[2025.03.13-11.32.05:857][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_AK47_Bullet_Auto5
+[2025.03.13-11.32.05:857][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Weapons_Pack_-_Gun_AK47_Bullet_A2095E9A84365CA60E3B5618ABD2522AA.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_AK47_Bullet_Auto5.uasset'
+[2025.03.13-11.32.05:866][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Body] ([1] browsable assets)...
+[2025.03.13-11.32.05:894][548]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Body.Weapons_Pack_-_Gun_Glock17_Body]
+[2025.03.13-11.32.05:894][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Body]
+[2025.03.13-11.32.06:012][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Body_Auto5
+[2025.03.13-11.32.06:012][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Weapons_Pack_-_Gun_Glock17_Body_DFE30BB249E85776067DA78919FEAC30.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Body_Auto5.uasset'
+[2025.03.13-11.32.06:020][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Magazine] ([1] browsable assets)...
+[2025.03.13-11.32.06:051][548]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Magazine.Weapons_Pack_-_Gun_Glock17_Magazine]
+[2025.03.13-11.32.06:051][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Magazine]
+[2025.03.13-11.32.06:149][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Magazine_Auto5
+[2025.03.13-11.32.06:149][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Weapons_Pack_-_Gun_Glock17_Magaz2D398D3E464134E11B2B92A79050D93F.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Magazine_Auto5.uasset'
+[2025.03.13-11.32.06:157][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Bullet] ([1] browsable assets)...
+[2025.03.13-11.32.06:186][548]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Bullet.Weapons_Pack_-_Gun_Glock17_Bullet]
+[2025.03.13-11.32.06:186][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Bullet]
+[2025.03.13-11.32.06:305][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Bullet_Auto5
+[2025.03.13-11.32.06:305][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Weapons_Pack_-_Gun_Glock17_BulleB068B87F4F6F7BCAC49710BAF7B29866.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/source/Weapons_Pack_-_Gun_Glock17_Bullet_Auto5.uasset'
+[2025.03.13-11.32.06:313][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Guns/weapons-pack-gun/textures/GunMat] ([1] browsable assets)...
+[2025.03.13-11.32.06:930][548]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Guns/weapons-pack-gun/textures/GunMat.GunMat]
+[2025.03.13-11.32.06:930][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/Guns/weapons-pack-gun/textures/GunMat]
+[2025.03.13-11.32.06:951][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Guns/weapons-pack-gun/textures/GunMat_Auto5
+[2025.03.13-11.32.06:951][548]LogSavePackage: Moving 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/GunMat_Auto533C21C7449405258E06FEB8E849EC1A0.tmp' to 'H:/Documents/GitHub/KTSUnreal/KTSProject/Saved/Autosaves/Game/Guns/weapons-pack-gun/textures/GunMat_Auto5.uasset'
+[2025.03.13-11.32.06:957][548]LogFileHelpers: Auto-saving content packages took 4.320
+[2025.03.13-11.34.19:061][945]LogSlate: Window 'Weapons_Pack_-_Gun_M16A1_Body' being destroyed
+[2025.03.13-11.34.19:063][945]LogSlate: Window 'Weapons_Pack_-_Gun_M16A1_Body' being destroyed
+[2025.03.13-11.34.19:184][945]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.03.13-11.34.19:184][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
