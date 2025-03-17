@@ -1335,3 +1335,155 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.17-14.35.38:469][910]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 348.910614
 [2025.03.17-14.35.39:469][913]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.17-14.35.39:469][913]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 349.577240, Update Interval: 308.963287
+[2025.03.17-14.39.35:501][494]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.17-14.39.36:360][578]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.17-14.39.37:983][720]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.03.17-14.39.37:984][720]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.17-14.39.37:984][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.17-14.39.38:011][720]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.17-14.39.38:011][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.17-14.39.38:059][720]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.03.17-14.39.38:347][720]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.17-14.39.38:347][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.17-14.39.38:414][720]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.17-14.39.38:439][720]LogSlate: Took 0.005884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.03.17-14.39.38:442][720]LogViewport: Scene viewport resized to 634x554, mode Windowed.
+[2025.03.17-14.39.38:520][720]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2025.03.17-14.40.40:046][769]LogSlate: Took 0.005426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.03.17-14.40.51:656][ 68]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 662.095154
+[2025.03.17-14.40.51:789][ 83]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.17-14.40.51:789][ 83]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 662.219971, Update Interval: 351.932129
+[2025.03.17-14.41.05:658][304]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.03.17-14.41.05:678][304]LogAutomationController: Ignoring very large delta of 2.37 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.17-14.41.13:845][995]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.03.17-14.41.21:126][ 90]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.17-14.41.21:132][ 90]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.03.17-14.44.59:810][242]LogViewport: Scene viewport resized to 160x160, mode Windowed.
+[2025.03.17-14.45.27:062][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.03.17-14.45.27:066][404]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.054
+[2025.03.17-14.45.27:067][404]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Quinn] ([2] browsable assets)...
+[2025.03.17-14.45.27:101][404]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Quinn.ABP_Quinn]
+[2025.03.17-14.45.27:101][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Quinn]
+[2025.03.17-14.45.27:105][404]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/ABP_Quinn_Auto1
+[2025.03.17-14.45.27:105][404]LogSavePackage: Moving '../../../../../Users/salma/Documents/KTSUnreal/KTSUnreal/KTSProject/Saved/ABP_Quinn_Auto1FEC4564442FA1CF19EA03A9DE119C12B.tmp' to '../../../../../Users/salma/Documents/KTSUnreal/KTSUnreal/KTSProject/Saved/Autosaves/Game/Characters/Mannequins/Animations/ABP_Quinn_Auto1.uasset'
+[2025.03.17-14.45.27:106][404]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Manny] ([2] browsable assets)...
+[2025.03.17-14.45.27:112][404]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny]
+[2025.03.17-14.45.27:112][404]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Manny]
+[2025.03.17-14.45.27:151][404]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/ABP_Manny_Auto1
+[2025.03.17-14.45.27:151][404]LogSavePackage: Moving '../../../../../Users/salma/Documents/KTSUnreal/KTSUnreal/KTSProject/Saved/ABP_Manny_Auto19735561B4DF578A9962B22A51A17CDD8.tmp' to '../../../../../Users/salma/Documents/KTSUnreal/KTSUnreal/KTSProject/Saved/Autosaves/Game/Characters/Mannequins/Animations/ABP_Manny_Auto1.uasset'
+[2025.03.17-14.45.27:151][404]LogFileHelpers: Auto-saving content packages took 0.085
+[2025.03.17-14.46.48:971][651]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1019.405518
+[2025.03.17-14.46.49:972][654]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.17-14.46.49:972][654]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1020.072693, Update Interval: 315.714600
+[2025.03.17-14.52.17:243][ 36]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1347.668335
+[2025.03.17-14.52.18:244][ 39]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.17-14.52.18:244][ 39]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1348.335693, Update Interval: 316.313354
+[2025.03.17-14.52.35:961][524]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2025.03.17-14.55.17:714][893]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2025.03.17-14.55.17:717][893]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.17-14.55.17:717][893]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.17-14.55.17:723][893]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.03.17-14.55.17:928][893]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.17-14.55.17:928][893]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.17-14.55.18:019][893]LogViewport: Scene viewport resized to 1522x1163, mode Windowed.
+[2025.03.17-14.55.20:354][150]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.03.17-14.55.24:105][446]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.03.17-14.57.00:976][814]BlueprintLog: New page: Compile ABP_Manny
+[2025.03.17-14.57.01:089][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.03.17-14.57.26:221][671]BlueprintLog: New page: Compile ABP_Manny
+[2025.03.17-14.57.26:278][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.03.17-14.57.26:732][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-14.57.26:839][713]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2025.03.17-14.57.26:839][713]LogSavePackage: Moving '../../../../../Users/salma/Documents/KTSUnreal/KTSUnreal/KTSProject/Saved/ABP_MannyF06D1C2146D5BA145A5D78A7986C0AC2.tmp' to '../../../../../Users/salma/Documents/KTSUnreal/KTSUnreal/KTSProject/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2025.03.17-14.57.26:848][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 390 ms)
+[2025.03.17-14.57.26:850][713]AssetCheck: New page: Asset Save: ABP_Manny
+[2025.03.17-14.57.26:850][713]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.03.17-14.57.52:001][551]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1682.423584
+[2025.03.17-14.57.52:153][569]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.17-14.57.52:153][569]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1682.567261, Update Interval: 300.115356
+[2025.03.17-15.00.08:058][537]BlueprintLog: New page: Compile ABP_Manny
+[2025.03.17-15.00.08:156][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.03.17-15.00.09:162][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.17-15.00.09:282][633]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Animations/ABP_Manny
+[2025.03.17-15.00.09:283][633]LogSavePackage: Moving '../../../../../Users/salma/Documents/KTSUnreal/KTSUnreal/KTSProject/Saved/ABP_MannyF5B47AFF411B9F30DB6087A7EE966C0A.tmp' to '../../../../../Users/salma/Documents/KTSUnreal/KTSUnreal/KTSProject/Content/Characters/Mannequins/Animations/ABP_Manny.uasset'
+[2025.03.17-15.00.09:291][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 518 ms)
+[2025.03.17-15.00.09:293][633]AssetCheck: New page: Asset Save: ABP_Manny
+[2025.03.17-15.00.09:293][633]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.03.17-15.00.15:646][320]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.17-15.00.15:652][320]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.17-15.00.15:652][320]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.03.17-15.00.15:654][320]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 7 ms)
+[2025.03.17-15.00.15:654][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.17-15.00.15:654][320]PIE: New page: PIE session: ThirdPersonMap (17 Mar 2025, 15:00:15)
+[2025.03.17-15.00.15:654][320]LogPlayLevel: Display: Creating online subsystem for client :Context_18
+[2025.03.17-15.00.15:656][320]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.03.17-15.00.15:673][321]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.17-15.00.15:676][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003321s)
+[2025.03.17-15.00.15:676][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003353s)
+[2025.03.17-15.00.15:691][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.03.17-15.00.15:696][321]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.17-15.00.15:696][321]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.17-15.00.15:696][321]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.03.17-15.00.15:697][321]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.17-15.00.15:697][321]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.17-15.00.15:697][321]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.17-15.00.15:697][321]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.17-15.00.15:698][321]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.03.17-15.00.15:698][321]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 65 ms)
+[2025.03.17-15.00.15:698][321]LogPlayLevel: PIE: World Init took: (0.002118s)
+[2025.03.17-15.00.15:698][321]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.03.17-15.00.15:698][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.17-15.00.15:698][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.17-15.00.15:698][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.17-15.00.15:698][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.17-15.00.15:698][321]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.17-15.00.15:698][321]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.17-15.00.15:698][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.17-15.00.15:698][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.17-15.00.15:698][321]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.17-15.00.15:698][321]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.17-15.00.15:698][321]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.17-15.00.15:701][321]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.17-15.00.15:723][321]LogAudioMixer: Display: Using Audio Hardware Device SteelSeries Sonar - Gaming (SteelSeries Sonar Virtual Audio Device)
+[2025.03.17-15.00.15:723][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.17-15.00.15:723][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.17-15.00.15:723][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.17-15.00.15:725][321]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.03.17-15.00.15:725][321]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2025.03.17-15.00.15:727][321]LogInit: FAudioDevice initialized with ID 4.
+[2025.03.17-15.00.15:727][321]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.03.17-15.00.15:727][321]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2025.03.17-15.00.15:727][321]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.03.17-15.00.15:727][321]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.17-15.00.15:729][321]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.03.17-15.00.15:731][321]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.03.17-15.00.15
+[2025.03.17-15.00.15:731][321]LogWorld: Bringing up level for play took: 0.001981
+[2025.03.17-15.00.15:738][321]PIE: Server logged in
+[2025.03.17-15.00.15:738][321]PIE: Play in editor total start time 0.086 seconds.
+[2025.03.17-15.00.48:389][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-15.00.48:389][ 10]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.03.17-15.00.48:389][ 10]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.17-15.00.48:390][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-15.00.48:390][ 10]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.03.17-15.00.48:392][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.17-15.00.48:396][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.17-15.00.48:410][ 10]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.17-15.00.48:411][ 10]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.17-15.00.48:411][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.17-15.00.48:412][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.17-15.00.48:415][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.17-15.00.48:419][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.17-15.00.48:451][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.03.17-15.01.21:950][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.03.17-15.01.21:952][500]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.016
+[2025.03.17-15.01.21:953][500]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Animations/ABP_Quinn] ([2] browsable assets)...
+[2025.03.17-15.01.21:953][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Animations/ABP_Quinn]
+[2025.03.17-15.01.21:959][500]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Animations/ABP_Quinn_Auto2
+[2025.03.17-15.01.21:959][500]LogSavePackage: Moving '../../../../../Users/salma/Documents/KTSUnreal/KTSUnreal/KTSProject/Saved/ABP_Quinn_Auto2EB19662F4BFB42930ADAF4BF753B5675.tmp' to '../../../../../Users/salma/Documents/KTSUnreal/KTSUnreal/KTSProject/Saved/Autosaves/Game/Characters/Mannequins/Animations/ABP_Quinn_Auto2.uasset'
+[2025.03.17-15.01.21:961][500]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Meshes/SK_Mannequin] ([1] browsable assets)...
+[2025.03.17-15.01.21:961][500]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.17-15.01.22:045][500]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin]
+[2025.03.17-15.01.22:045][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SK_Mannequin]
+[2025.03.17-15.01.22:057][500]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SK_Mannequin_Auto2
+[2025.03.17-15.01.22:057][500]LogSavePackage: Moving '../../../../../Users/salma/Documents/KTSUnreal/KTSUnreal/KTSProject/Saved/SK_Mannequin_Auto2FD38AD764FD81DAB2802B3A523D2C9A3.tmp' to '../../../../../Users/salma/Documents/KTSUnreal/KTSUnreal/KTSProject/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SK_Mannequin_Auto2.uasset'
+[2025.03.17-15.01.22:057][500]LogFileHelpers: Auto-saving content packages took 0.105

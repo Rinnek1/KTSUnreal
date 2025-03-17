@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/salma/Documents/KTSUnreal/KTSUnreal/KTSProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/salma/Documents/KTSUnreal/KTSUnreal/KTSProject/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
 				"H:/Documents/GitHub/KTSUnreal/KTSUnreal/KTSProject/Content/BP_AmmoBox.uasset",
 				"H:/Documents/GitHub/KTSUnreal/KTSUnreal/KTSProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"H:/Documents/Unreal Projects/KTSProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
