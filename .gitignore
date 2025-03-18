@@ -72,3 +72,11 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore Unreal Engine saved files and logs
+KTSProject/Saved/
+KTSProject/Saved/Logs/
+KTSProject/Saved/webcache_4430/
+
+# Ignore all logs
+*.log
